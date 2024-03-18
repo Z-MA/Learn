@@ -195,14 +195,23 @@
 # 算法
 
 [怎样才叫真正理解卡尔曼滤波 Kalman Filter？](https://www.zhihu.com/question/47559783/answer/2980976068)
+
 [跳出课本看LQR控制，从公式到代码!](https://www.bilibili.com/video/BV1Ng4y1V7JQ/)
+
 [PID算法 - 从入门到实战！](https://www.bilibili.com/video/BV1iP411x71X/)
+
 [只用PID?加上前馈解决95%的问题](https://www.bilibili.com/video/BV19T411t7du/)
+
 [系统辨识调PID全流程](https://www.bilibili.com/video/BV1Z8411K7EZ/?spm_id_from=333.999.0.0)  
+
 [什么是增量式PID【目前最简单最实用的PID教程】第四讲](https://www.bilibili.com/video/BV1FX4y12799/)
+
 [自动控制原理](http://dec3.jlu.edu.cn/webcourse/t000132/chapter/chapter1/01/01.html)
+
 [【PID控制】用EXCEL学习PID控制算法](https://www.bilibili.com/video/BV1kS4y1B7Uo)
+
 [通俗易懂的 PID 控制算法讲解](https://www.bilibili.com/video/BV1et4y1i7Gm)
+
 #### 自动控制原理基础课-主讲人：高运（适用于东北大学）
 - [P1第一章：自动控制系统的基本概念（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=1)[24:57](https://www.bilibili.com/video/BV1hs411678h?p=1)
 - [P2第二章：自动控制系统的基数学模型（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=2)[52:09](https://www.bilibili.com/video/BV1hs411678h?p=2)
@@ -422,7 +431,7 @@ I 在使用时还有个问题：需要设定积分限制。防止在刚开始加
   
 
 - PID学习
-    
+  
     [**STM32—PID控制在直流电机中的应用**](https://blog.csdn.net/qq_43743762/article/details/105827410?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ESEARCHCACHE%7ERate-1-105827410-blog-104156208.pc_relevant_vip_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ESEARCHCACHE%7ERate-1-105827410-blog-104156208.pc_relevant_vip_default&utm_relevant_index=2)
     
 
@@ -453,10 +462,6 @@ I 在使用时还有个问题：需要设定积分限制。防止在刚开始加
 [ADC基本读取方式——滑动均值滤波](https://www.bilibili.com/video/BV1KB4y1p7iN/)
 
 [**学会PID-基于板球平衡系统-初中基础就能听懂的简单讲**](https://www.bilibili.com/medialist/play/watchlater/BV1xL4y147ea)
-
-[[软件滤波/软件滤波]]
-
-
 
 ### 滤波算法
 #### 学习单片机AD采样必知的十大滤波算法！

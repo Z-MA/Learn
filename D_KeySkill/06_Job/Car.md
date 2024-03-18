@@ -384,13 +384,13 @@ CP AUTOSAR OS是基于OSEK标准的。 AP AUTOSAR OS是POSIX OS，且至少应�
 [T-BOX 设计方案介绍.pdf](https://max.book118.com/html/2017/0818/128711918.shtm)  
 [S32K3汽车远程信息处理盒(T-Box)参考设计板](https://www.nxp.com.cn/design/designs/s32k3-automotive-telematics-box-t-box-reference-design-board:S32K3-T-BOX)
 [T-BOX 车载网联终端参考设计_tbox设计规范-CSDN博客](https://blog.csdn.net/yao_zhuang/article/details/131368610)
-![](assets%201/Pasted%20image%2020240203115325.png)
-![](assets%201/Pasted%20image%2020240203115355.png)
+![](assets/Pasted%20image%2020240203115325.png)
+![](assets/Pasted%20image%2020240203115355.png)
 
-![](assets%201/Pasted%20image%2020240203115442.png)
-![](assets%201/Pasted%20image%2020240203115510.png)
-![](assets%201/Pasted%20image%2020240203115629.png)
-![](assets%201/Pasted%20image%2020240203115647.png)
+![](assets/Pasted%20image%2020240203115442.png)
+![](assets/Pasted%20image%2020240203115510.png)
+![](assets/Pasted%20image%2020240203115629.png)
+![](assets/Pasted%20image%2020240203115647.png)
 
 #### MCU
 [【知识】动能回收对续航到底有多大帮助？原来我们都看走了眼](https://www.bilibili.com/video/BV1JS4y1c7Un/)

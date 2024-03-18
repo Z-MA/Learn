@@ -8,6 +8,8 @@
 ### 正则表达式工具
 [正则表达式调试](https://regexr.com/)|[正则表达式可视化](https://jex.im/regulex/)
 
+[any86/any-rule: 🦕 常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台 (github.com)](https://github.com/any86/any-rule)
+
 ### 网络工具
 [IP地址归属地查询](https://www.ip138.com/)|[IP地址查询](https://www.ipip.net/ip.html)
 
