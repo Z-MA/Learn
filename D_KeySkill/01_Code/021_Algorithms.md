@@ -293,17 +293,17 @@
 
 ##### 位置式PID推导
 
-<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319222352293.png" alt="image-20240319222352293" style="zoom: 30%;" />
+<img src=".\assets\image-20240319222352293.png" alt="image-20240319222352293" style="zoom: 30%;" />
 
-<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319222511937.png" alt="image-20240319222511937" style="zoom: 50%;" />
+<img src=".\assets\image-20240319222511937.png" alt="image-20240319222511937" style="zoom: 50%;" />
 
 
 
-<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319222550769.png" alt="image-20240319222550769" style="zoom:50%;" />
+<img src=".\assets\image-20240319222550769.png" alt="image-20240319222550769" style="zoom:50%;" />
 
 ##### 增量式PID推导
 
-<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319223522075.png" alt="image-20240319223522075" style="zoom:40%;" />
+<img src=".\assets\image-20240319223522075.png" alt="image-20240319223522075" style="zoom:40%;" />
 
 #### 位置式PID和增量式PID的应用场景
 
