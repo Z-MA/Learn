@@ -1,4 +1,4 @@
-## 数据结构
+# 数据结构
 [数据结构如何一天速成？](https://www.zhihu.com/question/309285407/answer/1361122057)
 [有没有什么数据结构c语言版初学者比较推荐的网课或者书啊，感觉严蔚敏老师的书有些看不懂！？](https://www.zhihu.com/question/294218064/answer/1923551509)
 #### 【C语言描述】《数据结构和算法》
@@ -194,25 +194,9 @@
 
 # 算法
 
-[怎样才叫真正理解卡尔曼滤波 Kalman Filter？](https://www.zhihu.com/question/47559783/answer/2980976068)
+### 自控原理
 
-[跳出课本看LQR控制，从公式到代码!](https://www.bilibili.com/video/BV1Ng4y1V7JQ/)
-
-[PID算法 - 从入门到实战！](https://www.bilibili.com/video/BV1iP411x71X/)
-
-[只用PID?加上前馈解决95%的问题](https://www.bilibili.com/video/BV19T411t7du/)
-
-[系统辨识调PID全流程](https://www.bilibili.com/video/BV1Z8411K7EZ/?spm_id_from=333.999.0.0)  
-
-[什么是增量式PID【目前最简单最实用的PID教程】第四讲](https://www.bilibili.com/video/BV1FX4y12799/)
-
-[自动控制原理](http://dec3.jlu.edu.cn/webcourse/t000132/chapter/chapter1/01/01.html)
-
-[【PID控制】用EXCEL学习PID控制算法](https://www.bilibili.com/video/BV1kS4y1B7Uo)
-
-[通俗易懂的 PID 控制算法讲解](https://www.bilibili.com/video/BV1et4y1i7Gm)
-
-#### 自动控制原理基础课-主讲人：高运（适用于东北大学）
+##### 自动控制原理基础课-主讲人：高运（适用于东北大学）
 - [P1第一章：自动控制系统的基本概念（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=1)[24:57](https://www.bilibili.com/video/BV1hs411678h?p=1)
 - [P2第二章：自动控制系统的基数学模型（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=2)[52:09](https://www.bilibili.com/video/BV1hs411678h?p=2)
 - [P3第三章：自动控制系统的基时域分析（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=3)[1:03:25](https://www.bilibili.com/video/BV1hs411678h?p=3)
@@ -221,7 +205,7 @@
 - [P6第六章：控制系统的校正及综合（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=6)[25:16](https://www.bilibili.com/video/BV1hs411678h?p=6)
 - [P7第七章：非线性系统分析（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=7)[25:32](https://www.bilibili.com/video/BV1hs411678h?p=7)
 - [P8第八章：线性离散系统的理论基础（主讲人：高运）](https://www.bilibili.com/video/BV1hs411678h?p=8)[34:53](https://www.bilibili.com/video/BV1hs411678h?p=8)
-#### 控制工程基础
+##### 控制工程基础
 - [P1控制工程基础](https://www.bilibili.com/video/BV1PJ411g7GC?p=1)[02:35](https://www.bilibili.com/video/BV1PJ411g7GC?p=1)
 - [P2控制工程基础(1)](https://www.bilibili.com/video/BV1PJ411g7GC?p=2)[01:10](https://www.bilibili.com/video/BV1PJ411g7GC?p=2)
 - [P3控制工程基础(2)](https://www.bilibili.com/video/BV1PJ411g7GC?p=3)[04:06](https://www.bilibili.com/video/BV1PJ411g7GC?p=3)
@@ -289,7 +273,10 @@
 - [P65控制工程基础(64)](https://www.bilibili.com/video/BV1PJ411g7GC?p=65)[08:23](https://www.bilibili.com/video/BV1PJ411g7GC?p=65)
 - [P66控制工程基础(65)](https://www.bilibili.com/video/BV1PJ411g7GC?p=66)[09:57](https://www.bilibili.com/video/BV1PJ411g7GC?p=66)
 
-#### 【官方中字】什么是卡尔曼滤波器 (Kalman Filters) ？(全7P) MATLAB&Simulink
+### 卡尔曼
+
+###### 【官方中字】什么是卡尔曼滤波器 (Kalman Filters) ？(全7P) MATLAB&Simulink
+
 - [P1为什么使用卡尔曼滤波器？](https://www.bilibili.com/video/BV1V5411V72J?p=1)[06:52](https://www.bilibili.com/video/BV1V5411V72J?p=1)
 - [P2了解卡尔曼滤波器——状态观测器](https://www.bilibili.com/video/BV1V5411V72J?p=2)[07:46](https://www.bilibili.com/video/BV1V5411V72J?p=2)
 - [P3了解卡尔曼滤波器——最优状态估计](https://www.bilibili.com/video/BV1V5411V72J?p=3)[06:43](https://www.bilibili.com/video/BV1V5411V72J?p=3)
@@ -298,7 +285,50 @@
 - [P6在 Simulink 中使用卡尔曼滤波器](https://www.bilibili.com/video/BV1V5411V72J?p=6)[08:59](https://www.bilibili.com/video/BV1V5411V72J?p=6)
 - [P7在 Simulink 中使用扩展卡尔曼滤波器](https://www.bilibili.com/video/BV1V5411V72J?p=7)[05:47](https://www.bilibili.com/video/BV1V5411V72J?p=7)
 
-#### PID算法原理
+### PID
+
+#### 位置式PID和增量式PID原理介绍
+
+参考链接：[带你推导位置式PID和增量式PID公式](https://www.bilibili.com/video/BV1TP411D7xd/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=8628b70b8921792574747e076af0f11a)
+
+##### 位置式PID推导
+
+<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319222352293.png" alt="image-20240319222352293" style="zoom: 30%;" />
+
+<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319222511937.png" alt="image-20240319222511937" style="zoom: 50%;" />
+
+
+
+<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319222550769.png" alt="image-20240319222550769" style="zoom:50%;" />
+
+##### 增量式PID推导
+
+<img src="C:\Users\MLH\Nutstore\1\LZ_NOTES\D_KeySkill\01_Code\assets\image-20240319223522075.png" alt="image-20240319223522075" style="zoom:40%;" />
+
+#### 位置式PID和增量式PID的应用场景
+
+
+
+#### PID整定
+
+参数整定找最佳，从小到大顺序查先是比例后积分，最后再把微分加曲线振荡很频繁，比例度盘要放大
+
+曲线漂浮绕大湾，比例度盘往小扳曲线偏离回复慢，积分时间往下降曲线波动周期长，积分时间再加长曲线振荡频率快，先把微分降下来动差大来波动慢。微分时间应加长理想曲线两个波，前高后低四比一一看二调多分析，调节质量不会低
+
+若要反应增快，增大P减小I
+
+若要反应减慢，减小P增大I
+
+如果比例太大，会引起系统震荡
+
+如果积分太大，会引起系统迟	钝
+
+#### 代码实现
+
+#### 应用
+
+###### PID算法原理
+
 [023_STM32之PID算法原理及应用 - 陆小果哥哥 - 博客园](https://www.cnblogs.com/luxiaoguogege/p/10230369.html)
 **先来彻底搞懂PID到底是啥？**
 
@@ -410,30 +440,35 @@ I 在使用时还有个问题：需要设定积分限制。防止在刚开始加
 
 **PID参数调整口诀：**
 
-参数整定找最佳，从小到大顺序查先是比例后积分，最后再把微分加曲线振荡很频繁，比例度盘要放大
 
-曲线漂浮绕大湾，比例度盘往小扳曲线偏离回复慢，积分时间往下降曲线波动周期长，积分时间再加长曲线振荡频率快，先把微分降下来动差大来波动慢。微分时间应加长理想曲线两个波，前高后低四比一一看二调多分析，调节质量不会低
 
-若要反应增快，增大P减小I
 
-若要反应减慢，减小P增大I
 
-如果比例太大，会引起系统震荡
-
-如果积分太大，会引起系统迟钝
-#### 其他
 [【硬核科普】PID算法从理论到实践【1】 小游戏让你秒懂调参技巧](https://www.bilibili.com/video/BV1zM4y157pk)无人机穿越机玩家必看
 
 [【Arduino 101】五分钟搞懂PID控制算法](https://www.bilibili.com/video/BV1jr4y1P7qK)
 
 [平衡车原理大揭秘-直立环和速度环是什么？](https://www.bilibili.com/video/BV1K64y1e7kk)
 
-  
+[怎样才叫真正理解卡尔曼滤波 Kalman Filter？](https://www.zhihu.com/question/47559783/answer/2980976068)
 
-- PID学习
-  
-    [**STM32—PID控制在直流电机中的应用**](https://blog.csdn.net/qq_43743762/article/details/105827410?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ESEARCHCACHE%7ERate-1-105827410-blog-104156208.pc_relevant_vip_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ESEARCHCACHE%7ERate-1-105827410-blog-104156208.pc_relevant_vip_default&utm_relevant_index=2)
-    
+[跳出课本看LQR控制，从公式到代码!](https://www.bilibili.com/video/BV1Ng4y1V7JQ/)
+
+[PID算法 - 从入门到实战！](https://www.bilibili.com/video/BV1iP411x71X/)
+
+[只用PID?加上前馈解决95%的问题](https://www.bilibili.com/video/BV19T411t7du/)
+
+[系统辨识调PID全流程](https://www.bilibili.com/video/BV1Z8411K7EZ/?spm_id_from=333.999.0.0)  
+
+[什么是增量式PID【目前最简单最实用的PID教程】第四讲](https://www.bilibili.com/video/BV1FX4y12799/)
+
+[自动控制原理](http://dec3.jlu.edu.cn/webcourse/t000132/chapter/chapter1/01/01.html)
+
+[【PID控制】用EXCEL学习PID控制算法](https://www.bilibili.com/video/BV1kS4y1B7Uo)
+
+[通俗易懂的 PID 控制算法讲解](https://www.bilibili.com/video/BV1et4y1i7Gm)
+
+[STM32—PID控制在直流电机中的应用](https://blog.csdn.net/qq_43743762/article/details/105827410?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ESEARCHCACHE%7ERate-1-105827410-blog-104156208.pc_relevant_vip_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ESEARCHCACHE%7ERate-1-105827410-blog-104156208.pc_relevant_vip_default&utm_relevant_index=2)
 
 [自动控制原理](http://dec3.jlu.edu.cn/webcourse/t000132/chapter/chapter1/01/01.html)
 
