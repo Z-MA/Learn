@@ -2,6 +2,65 @@
 
 ### 岗位招聘要求
 
+#### 诺瓦星云 MCU工程师  15-28K
+
+工作职责:
+1、参与产品需求分析、方案设计，嵌入式相关技术的评估验证及器件选型；
+2、负责嵌入式软件开发、测试方案等设计文档的撰写及维护；
+3、负责按照项目需求，独立完成产品的嵌入式应用软件框架设计、代码编写、测试与系统联调工作；
+4、负责同硬件、算法、软件等领域工程师进行协作开发与调试，保障项目按期落地；
+5、负责产品的升级、维护及bug修复，持续优化产品性能；
+任职资格:
+1、本科及以上学历，计算机、电子信息、通信、自动化等相关专业；
+2、2年以上单片机设计开发经验，有电机驱动、仪器仪表行业经验者优先；
+3、熟悉嵌入式系统，具备扎实的单片机软硬件知识，熟悉Keil或IAR等开发环境，掌握STM32、GD32等32位ARM内核MCU的设计开发能力，能够独立承担项目；
+4、熟悉UART、SPI、CAN、I2C、USB、网络、蓝牙等通信协议，掌握常用外设驱动开发，能够看懂电路原理图；
+5、具有团队协作、沟通协调能力，能够积极主动排查并解决产品和客户现场问题，拥有良好的工作心态及抗压能力。
+
+
+
+工作职责:
+
+1、负责公司产品功能或业务模块的开发和维护工作；  
+
+2、负责产品功能方案设计和软件模块化设计；  
+
+3、负责项目和产品相关文档编写工作；  
+
+4、负责同FPGA及软件工程师进行系统联调；  
+
+5、协助解决现场应用或产品生产环节中的问题。 
+
+任职资格: 
+
+1、通讯、电子、自动化等相关专业，本科以上学历；  
+
+2、2年及以上单片机开发和C语言编程经验，具有一定的系统设计及模块化设计经验；  
+
+3、掌握32位ARM单片机软件开发，能够独立承担项目；  
+
+4、掌握SPI、IIC、URAT，ADC等常用外设驱动开发；  
+
+5、熟悉Keil或IAR等开发环境，有一定软件调试经验；  
+
+6、有数字电路基础，会使用示波器等工具对硬件电路进行调试；  
+
+7、具备MCU底层驱动开发经验优先，具备Linux下编程调试能力优先； 
+
+8、工作积极主动，能主动设法完成任务，具有较强的压力承受能力。
+
+[诺瓦面试（一面和二面）总结_诺瓦星云二面刷人嘛-CSDN博客](https://blog.csdn.net/wlswls1711/article/details/108006703?spm=1001.2014.3001.5506)
+
+[诺瓦星云面试汇总 Linux-CSDN博客](https://blog.csdn.net/qq_43448818/article/details/132190436?ops_request_misc=%7B%22request%5Fid%22%3A%22171102635116800215073256%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=171102635116800215073256&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-132190436-null-null.142^v99^pc_search_result_base7&utm_term=诺瓦面试&spm=1018.2226.3001.4187)
+
+[诺瓦8.6提前批面试（嵌入式MCU）_诺瓦的面试-CSDN博客](https://blog.csdn.net/qq_42437056/article/details/107882056?ops_request_misc=%7B%22request%5Fid%22%3A%22171102635116800213048139%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=171102635116800213048139&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-11-107882056-null-null.142^v99^pc_search_result_base7&utm_term=诺瓦面试&spm=1018.2226.3001.4187)
+
+[诺瓦科技/诺瓦星云嵌入式面经汇总-CSDN博客](https://blog.csdn.net/JansonXIE/article/details/132842181?ops_request_misc=%7B%22request%5Fid%22%3A%22171102669116800188539205%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=171102669116800188539205&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-9-132842181-null-null.142^v99^pc_search_result_base7&utm_term=诺瓦星云&spm=1018.2226.3001.4187)
+
+[诺瓦星云（嵌入式开发-中间件方向）-CSDN博客](https://blog.csdn.net/qq_46071324/article/details/135691496?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1-135691496-blog-133007542.235^v43^pc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-1-135691496-blog-133007542.235^v43^pc_blog_bottom_relevance_base7&utm_relevant_index=2)
+
+
+
 #### 联适导航  中级嵌入式软件工程师 15-18K·13薪
 
 ##### 岗位职责
